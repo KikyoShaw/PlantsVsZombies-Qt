@@ -1,0 +1,109 @@
+<RCC>
+    <qresource prefix="/Background">
+        <file>rc/background1.jpg</file>
+        <file>rc/background2.jpg</file>
+        <file>rc/Title.jpg</file>
+    </qresource>
+    <qresource prefix="/Plants">
+        <file>rc/Peashooter.gif</file>
+        <file>rc/SunFlower.gif</file>
+        <file>rc/WallNut.gif</file>
+        <file>rc/Wallnut_1.gif</file>
+        <file>rc/Wallnut_2.gif</file>
+        <file>rc/Repeater.gif</file>
+        <file>rc/PotatoMine.gif</file>
+        <file>rc/PotatoMine_1.gif</file>
+        <file>rc/FireTree.gif</file>
+        <file>rc/CherryBomb.gif</file>
+        <file>rc/IcePeaShooter.gif</file>
+        <file>rc/Mushroom.gif</file>
+    </qresource>
+    <qresource prefix="/Zombies">
+        <file>rc/Zombie.gif</file>
+        <file>rc/Zombie_1.gif</file>
+        <file>rc/Zombie_2.gif</file>
+        <file>rc/ZombieAttack.gif</file>
+        <file>rc/ZombieBucket.gif</file>
+        <file>rc/ZombieCone.gif</file>
+        <file>rc/ZombieConeAttack.gif</file>
+        <file>rc/ZombieDie.gif</file>
+        <file>rc/ZombieFlag.gif</file>
+        <file>rc/ZombieFlagAttack.gif</file>
+        <file>rc/ZombieHead.gif</file>
+        <file>rc/ZombieShield.gif</file>
+        <file>rc/ZombieShieldAttack.gif</file>
+        <file>rc/ZombieBucketAttack.gif</file>
+        <file>rc/PoleZombie.gif</file>
+        <file>rc/PoleZombieAttack.gif</file>
+        <file>rc/PoleZombieJump.gif</file>
+        <file>rc/PoleZombieJump2.gif</file>
+        <file>rc/PoleZombieWalk.gif</file>
+        <file>rc/NewsAttack.gif</file>
+        <file>rc/NewsAttack_1.gif</file>
+        <file>rc/NewsLost.gif</file>
+        <file>rc/NewsWalk.gif</file>
+        <file>rc/NewsWalk_1.gif</file>
+    </qresource>
+    <qresource prefix="/FlyingObjects">
+        <file>rc/Pea.gif</file>
+        <file>rc/PeaFire.gif</file>
+        <file>rc/PeaIce.gif</file>
+        <file>rc/Mush.gif</file>
+    </qresource>
+    <qresource prefix="/Anims">
+        <file>rc/PeaHit.gif</file>
+        <file>rc/ZombieDie.gif</file>
+        <file>rc/ZombieHead.gif</file>
+        <file>rc/PotatoMine_mashed.gif</file>
+        <file>rc/BurnDie.gif</file>
+        <file>rc/Fire.gif</file>
+        <file>rc/Boom.gif</file>
+        <file>rc/PoleZombieDie.gif</file>
+        <file>rc/PoleZombieHead.gif</file>
+        <file>rc/NewsDie.gif</file>
+        <file>rc/NewsHead.gif</file>
+    </qresource>
+    <qresource prefix="/Sounds">
+        <file>rc/Pea.wav</file>
+        <file>rc/PeaHit.wav</file>
+        <file>rc/ShieldHit.wav</file>
+        <file>rc/Sun.wav</file>
+        <file>rc/Eat.wav</file>
+        <file>rc/NotEnoughSun.wav</file>
+        <file>rc/Place.wav</file>
+        <file>rc/Potato.wav</file>
+        <file>rc/Fire.wav</file>
+        <file>rc/Boom.wav</file>
+        <file>rc/Mush.wav</file>
+        <file>rc/Pole.wav</file>
+        <file>rc/NewsLost.wav</file>
+        <file>rc/Lose.wav</file>
+    </qresource>
+    <qresource prefix="/Interface">
+        <file>rc/SunBack.png</file>
+        <file>rc/zombatar_background_crazydave.png</file>
+        <file>rc/zombatar_background_menu.png</file>
+        <file>rc/Leave.png</file>
+        <file>rc/StartScreen.jpg</file>
+        <file>rc/myapp.ico</file>
+        <file>rc/mainlogo.png</file>
+    </qresource>
+    <qresource prefix="/Bonus">
+        <file>rc/Sun.gif</file>
+    </qresource>
+    <qresource prefix="/Cards">
+        <file>rc/card_CherryBomb.png</file>
+        <file>rc/card_FireTree.png</file>
+        <file>rc/card_IcePeaShooter.png</file>
+        <file>rc/card_Mushroom.png</file>
+        <file>rc/card_PeaShooter.png</file>
+        <file>rc/card_PotatoMine.png</file>
+        <file>rc/card_Repeater.png</file>
+        <file>rc/card_Sunflower.png</file>
+        <file>rc/card_WallNut.png</file>
+        <file>rc/Shovel.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>user.txt</file>
+    </qresource>
+</RCC>
